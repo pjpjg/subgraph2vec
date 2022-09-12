@@ -1,3 +1,0 @@
-models,svm,svm,svm,svm
-metrics,gmean,sensitivity,specificity,ave_precision
-CE_BP-CC-MF,,,"[0.8150580551523948, 0.02703976512875704]","[0.6139492618659076, 0.03467619497774172]"
